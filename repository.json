@@ -1,0 +1,61 @@
+{
+  "name": "Trackers by JohnnyGo & JustLeeBelmont",
+  "packages": [
+    {
+      "name": "Dawn of Sorrow Randomizer",
+      "author": "JohnnyGo, JustLeeBelmont",
+      "game_name": "Castlevania: Dawn of Sorrow",
+      "flags": ["map", "pins"],
+      "version": "1.0",
+      "uid": "dos_rando_johnny",
+      "link": "https://johnny-go.github.io/Trackers/DawnOfSorrowTracker.zip",
+      "required_app_version": "2.3.0.0",
+      "variants": [
+        {
+          "name": "Standard Map Tracker",
+          "flags": ["map", "pins"]
+        },
+        {
+          "name": "Item Tracker",
+          "flags": []
+        }
+      ]
+    },
+    {
+      "name": "Portrait of Ruin Randomizer",
+      "author": "JohnnyGo, JustLeeBelmont",
+      "game_name": "Castlevania: Portrait of Ruin",
+      "flags": ["map", "pins"],
+      "version": "1.0",
+      "uid": "por_rando_johnny",
+      "link": "https://johnny-go.github.io/Trackers/PortraitOfRuinTracker.zip",
+      "required_app_version": "2.3.0.0",
+      "variants": [
+        {
+          "name": "Standard Map Tracker",
+          "flags": ["map", "pins"]
+        },
+        {
+          "name": "Item Tracker",
+          "flags": []
+        }
+      ]
+    },
+    {
+      "name": "Order of Ecclesia Randomizer",
+      "author": "JohnnyGo, JustLeeBelmont",
+      "game_name": "Castlevania: Order of Ecclesia",
+      "flags": [],
+      "version": "1.0",
+      "uid": "ooe_rando_johnny",
+      "link": "https://johnny-go.github.io/Trackers/OrderOfEcclesiaTracker.zip",
+      "required_app_version": "2.3.0.0",
+      "variants": [
+        {
+          "name": "Item Tracker",
+          "flags": []
+        }
+      ]
+    }
+  ]
+}
