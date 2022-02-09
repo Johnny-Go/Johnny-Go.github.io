@@ -9,7 +9,8 @@
       "version": "1.0",
       "uid": "dos_rando_johnny",
       "link": "https://johnny-go.github.io/Trackers/DawnOfSorrowTracker.zip",
-      "required_app_version": "2.3.0.0",
+      "required_app_version": "2.3.8.15",
+      "documentation_url": "https://github.com/Johnny-Go/DawnOfSorrowTracker",
       "variants": [
         {
           "name": "Standard Map Tracker",
@@ -29,7 +30,8 @@
       "version": "1.0",
       "uid": "por_rando_johnny",
       "link": "https://johnny-go.github.io/Trackers/PortraitOfRuinTracker.zip",
-      "required_app_version": "2.3.0.0",
+      "required_app_version": "2.3.8.15",
+      "documentation_url": "https://github.com/Johnny-Go/PortraitOfRuinTracker",
       "variants": [
         {
           "name": "Standard Map Tracker",
@@ -49,7 +51,8 @@
       "version": "1.0",
       "uid": "ooe_rando_johnny",
       "link": "https://johnny-go.github.io/Trackers/OrderOfEcclesiaTracker.zip",
-      "required_app_version": "2.3.0.0",
+      "required_app_version": "2.3.8.15",
+      "documentation_url": "https://github.com/Johnny-Go/OrderOfEcclesiaTracker",
       "variants": [
         {
           "name": "Item Tracker",
