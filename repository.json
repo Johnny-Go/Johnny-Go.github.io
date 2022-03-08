@@ -1,14 +1,14 @@
 {
-  "name": "DSVania Randomizer by JohnnyGo & JustLeeBelmont",
+  "name": "DSVania Randomizers by JohnnyGo & JustLeeBelmont",
   "packages": [
     {
-      "name": "Dawn of Sorrow Randomizer",
+      "name": "Castlevania: Dawn of Sorrow Randomizer",
       "author": "JohnnyGo, JustLeeBelmont",
       "game_name": "Castlevania: Dawn of Sorrow",
       "flags": ["map", "pins"],
-      "version": "1.0.0",
+      "version": "1.1.0",
       "uid": "dos_rando_johnny",
-      "link": "https://github.com/Johnny-Go/DawnOfSorrowTracker/releases/download/v1.0.0/DawnOfSorrowTracker.zip",
+      "link": "https://github.com/Johnny-Go/DawnOfSorrowTracker/releases/download/v1.1.0/DawnOfSorrowTracker.zip",
       "required_app_version": "2.3.8.15",
       "documentation_url": "https://github.com/Johnny-Go/DawnOfSorrowTracker",
       "variants": [
@@ -23,13 +23,13 @@
       ]
     },
     {
-      "name": "Portrait of Ruin Randomizer",
+      "name": "Castlevania: Portrait of Ruin Randomizer",
       "author": "JohnnyGo, JustLeeBelmont",
       "game_name": "Castlevania: Portrait of Ruin",
       "flags": ["map", "pins"],
-      "version": "1.0.0",
+      "version": "1.1.0",
       "uid": "por_rando_johnny",
-      "link": "https://github.com/Johnny-Go/PortraitOfRuinTracker/releases/download/v1.0.0/PortraitOfRuinTracker.zip",
+      "link": "https://github.com/Johnny-Go/PortraitOfRuinTracker/releases/download/v1.1.0/PortraitOfRuinTracker.zip",
       "required_app_version": "2.3.8.15",
       "documentation_url": "https://github.com/Johnny-Go/PortraitOfRuinTracker",
       "variants": [
@@ -44,13 +44,13 @@
       ]
     },
     {
-      "name": "Order of Ecclesia Randomizer",
+      "name": "Castlevania: Order of Ecclesia Randomizer",
       "author": "JohnnyGo, JustLeeBelmont",
       "game_name": "Castlevania: Order of Ecclesia",
       "flags": [],
-      "version": "1.0.0",
+      "version": "1.1.0",
       "uid": "ooe_rando_johnny",
-      "link": "https://github.com/Johnny-Go/OrderOfEcclesiaTracker/releases/download/v1.0.0/OrderOfEcclesiaTracker.zip",
+      "link": "https://github.com/Johnny-Go/OrderOfEcclesiaTracker/releases/download/v1.1.0/OrderOfEcclesiaTracker.zip",
       "required_app_version": "2.3.8.15",
       "documentation_url": "https://github.com/Johnny-Go/OrderOfEcclesiaTracker",
       "variants": [
