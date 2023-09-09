@@ -67,6 +67,23 @@
           "flags": []
         }
       ]
+    },
+    {
+      "name": "Bloodstained: Ritual of the Night Randomizer",
+      "author": "JohnnyGo",
+      "game_name": "Bloodstained: Ritual of the Night",
+      "flags": [],
+      "version": "1.0.0",
+      "uid": "brotn_rando_johnny",
+      "link": "https://github.com/Johnny-Go/RitualOfTheNightTracker/releases/download/1.0.0/RitualOfTheNightTracker.zip",
+      "required_app_version": "2.3.8.15",
+      "documentation_url": "https://github.com/Johnny-Go/RitualOfTheNightTracker",
+      "variants": [
+        {
+          "name": "Item Tracker",
+          "flags": []
+        }
+      ]
     }
   ]
 }
