@@ -101,6 +101,23 @@
           "flags": []
         }
       ]
+    },
+    {
+      "name": "Metroid Fusion Randomizer",
+      "author": "JohnnyGo",
+      "game_name": "Metroid Fusion Randomizer",
+      "flags": [],
+      "version": "1.0.0",
+      "uid": "mf_rando_johnny",
+      "link": "https://github.com/Johnny-Go/MetroidFusionTracker/releases/download/1.0.0/MetroidFusionTracker.zip",
+      "required_app_version": "2.3.8.15",
+      "documentation_url": "https://github.com/Johnny-Go/MetroidFusionTracker",
+      "variants": [
+        {
+          "name": "Item Tracker",
+          "flags": []
+        }
+      ]
     }
   ]
 }
