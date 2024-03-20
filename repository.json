@@ -107,11 +107,28 @@
       "author": "JohnnyGo",
       "game_name": "Metroid Fusion Randomizer",
       "flags": [],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "uid": "mf_rando_johnny",
-      "link": "https://github.com/Johnny-Go/MetroidFusionTracker/releases/download/1.0.0/MetroidFusionTracker.zip",
+      "link": "https://github.com/Johnny-Go/MetroidFusionTracker/releases/download/1.0.1/MetroidFusionTracker.zip",
       "required_app_version": "2.3.8.15",
       "documentation_url": "https://github.com/Johnny-Go/MetroidFusionTracker",
+      "variants": [
+        {
+          "name": "Item Tracker",
+          "flags": []
+        }
+      ]
+    },
+    {
+      "name": "Metroid: Zero Mission Randomizer",
+      "author": "JohnnyGo",
+      "game_name": "Metroid: Zero Mission Randomizer",
+      "flags": [],
+      "version": "1.0.0",
+      "uid": "mzm_rando_johnny",
+      "link": "https://github.com/Johnny-Go/MetroidZeroMissionTracker/releases/download/1.0.0/MetroidZeroMissionTracker.zip",
+      "required_app_version": "2.3.8.15",
+      "documentation_url": "https://github.com/Johnny-Go/MetroidZeroMissionTracker",
       "variants": [
         {
           "name": "Item Tracker",
