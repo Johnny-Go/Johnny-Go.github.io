@@ -135,6 +135,23 @@
           "flags": []
         }
       ]
+    },
+    {
+      "name": "Castlevania: Aria of Sorrow Randomizer",
+      "author": "JohnnyGo",
+      "game_name": "Castlevania: Aria of Sorrow",
+      "flags": [],
+      "version": "1.0.0",
+      "uid": "aos_rando_johnny",
+      "link": "https://github.com/Johnny-Go/AriaOfSorrowTracker/releases/download/1.0.0/AriaOfSorrowTracker.zipp",
+      "required_app_version": "2.3.8.15",
+      "documentation_url": "https://github.com/Johnny-Go/AriaOfSorrowTracker",
+      "variants": [
+        {
+          "name": "Item Tracker",
+          "flags": []
+        }
+      ]
     }
   ]
 }
